@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-introduccion/introduccion-general-al-sistema-de-interacciones-de-iris/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":"true","permalink":"/01-introduccion/introduccion-general-al-sistema-de-interacciones-de-iris/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
