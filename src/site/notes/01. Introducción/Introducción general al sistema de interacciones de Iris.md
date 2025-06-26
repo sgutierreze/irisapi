@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Mi nota pública","tags":["public","docs"],"permalink":"/01-introduccion/introduccion-general-al-sistema-de-interacciones-de-iris/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-introduccion/introduccion-general-al-sistema-de-interacciones-de-iris/","dgPassFrontmatter":true}
 ---
 
 
